@@ -46,9 +46,9 @@ discovering.
 <!--
 Typeset in [Founders Grotesk](https://klim.co.nz/retail-fonts/founders-grotesk/) &amp; [Founders Grotesk Text](https://klim.co.nz/retail-fonts/founders-grotesk-text/).  
 -->
-This site is built with:  
-<i>vanilla (S)CSS, Jekyll, Netlify, Cloud9, AWS CloudFront &amp; GitHub.</i>
+This site is built with:
+Vanilla (S)CSS, Eleventy, Nunjucts, Netlify, Cloud9, AWS CloudFront &amp; GitHub.
 
 <br>
-<img src="https://api.netlify.com/api/v1/badges/e118c926-0caa-4618-a30b-899365e88718/deploy-status" alt="Netlify Status" />
+<img src="https://api.netlify.com/api/v1/badges/7271b2b9-9d16-4a12-8b3f-2d4855d25730/deploy-status" alt="Netlify Status" />
 
